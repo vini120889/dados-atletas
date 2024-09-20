@@ -30,8 +30,8 @@ Idade: 30<br>
 Peso: 75<br>
 Notas: 10, 9.34, 8.42, 10, 7.88<br>
 Categoria: Adulto<br>
-IMC: 23.15<br>
-Média: 9.25<br>
+IMC: 27.68166089965398<br>
+Média: 9,25333333<br>
 
 ### Como Executar
 
